@@ -1,4 +1,3 @@
-# PRODIGY_TrackCode_TaskNumber2
 Stopwatchwebapplication
 <!DOCTYPE html>
 <html>
